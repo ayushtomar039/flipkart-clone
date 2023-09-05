@@ -105,5 +105,10 @@ footer {
 
 .card-item-container {
     display: flex;
-    overflow: scroll;
+    overflow: hidden;
+}
+
+.card {
+    border: 1px solid rgb(229, 229, 229);
+    border-radius: 3px;
 }
